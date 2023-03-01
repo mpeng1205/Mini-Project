@@ -1,2 +1,3 @@
 # Mini-Project
+Prime: generates prime number in the number range of the user's input.
 Update soon...
